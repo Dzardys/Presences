@@ -13,6 +13,7 @@
 		"typeRoots": ["@types"],
 		"esModuleInterop": true,
 		"skipLibCheck": true,
-		"inlineSourceMap": true
+		"inlineSourceMap": true,
+		"resolveJsonModule": true
 	}
 }

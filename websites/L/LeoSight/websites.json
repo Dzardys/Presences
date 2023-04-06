@@ -1,0 +1,8 @@
+{
+    "websites": {
+        "https://leosight.cz/vzorProJSON": ["details", "state", "smallImage", "smallText"],
+
+        "https://leosight.cz/": ["Prohlíží si hlavní stránku", "", "lsminilogo", "leosight.cz"],
+        "https://leosight.cz/forum": ["Fórum", "Hlavní stránka", "lsminilogo", "leosight.cz"]
+    }
+}   
